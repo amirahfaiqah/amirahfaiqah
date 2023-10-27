@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm amirah faiqah</h1>
+<h1 align="center">Hi 👋, I'm Amirah Faiqah</h1>
 <h3 align="center">A hardworking computer science student</h3>
 
-- 🌱 I’m currently learning **database course in UTM**
 
 - 📫 How to reach me **faiqah0804@gmail.com**
 
